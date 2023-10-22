@@ -4,6 +4,7 @@
 	import '../app.postcss';
 	import logo from '$lib/assets/logo.png';
     import { AppShell } from '@skeletonlabs/skeleton';
+    
 </script>
 
 
