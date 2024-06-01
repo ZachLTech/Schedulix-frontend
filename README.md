@@ -28,7 +28,7 @@ In a real world scenario, if or when the project is finalized beyond it's Hackat
 
 ## Links
 
-- ### [Demo](https://schedulixfedemo.zachl.space)
+- ### [Demo](https://schedulixfedemo.zachl.tech)
 - ### [Backend - Fullstack Repo](https://github.com/RealStr1ke/Schedulix)
 - ### [Hackathon Submission](https://devpost.com/software/schedulix)
 
